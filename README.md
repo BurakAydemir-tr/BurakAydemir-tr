@@ -5,7 +5,7 @@ I am Computer and Instructional Technologies Teacher. I develop projects in the 
 <p>
   <a href="mailto:baydemir2035@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
   <a href="mailto:burak_aydemir86@hotmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" /></a>
-  <a href="https://www.linkedin.com/in/burak-aydemir/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://www.linkedin.com/in/burak-aydemir-888b1b210/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </p>
 <br />
 <br />
